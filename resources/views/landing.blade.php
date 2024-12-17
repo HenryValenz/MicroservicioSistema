@@ -165,13 +165,7 @@
             <!-- Contenedor para los botones de imagen -->
             <div class="buttons-container">
                 <!-- Botón 1 -->
-                <div class="image-button">
-                    <a href="{{ route('registro.create') }}">
-                        <img src="https://cdn-icons-png.flaticon.com/512/3456/3456426.png?text=Boton+1" alt="Botón Foto 1">
-                    </a>
-                    <h2>Registrarse: Estudiante</h2>
-                </div>
-
+                
                 <!-- Botón 2 -->
                 <div class="image-button">
                     <a href="{{ route('loginM') }}">
